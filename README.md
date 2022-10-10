@@ -1,4 +1,6 @@
 ![github-cover-optmized](https://user-images.githubusercontent.com/63759344/194789773-0fcebe4d-afd5-4cfe-aad2-20cca1633427.png)
+![OS](https://user-images.githubusercontent.com/63759344/194790347-2918d7e8-ed42-4fd1-8cff-f5d06293942d.png)
+
 
 ### Hi there 👋
 

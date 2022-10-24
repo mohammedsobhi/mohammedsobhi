@@ -1,21 +1,12 @@
-![github-cover-optmized](https://user-images.githubusercontent.com/63759344/194789773-0fcebe4d-afd5-4cfe-aad2-20cca1633427.png)
+![github cover (3) (1)](https://user-images.githubusercontent.com/63759344/197551594-aad462e1-e0d1-420c-84c2-48dd2ac902b4.png)
 ![OS](https://user-images.githubusercontent.com/63759344/194790347-2918d7e8-ed42-4fd1-8cff-f5d06293942d.png)
 
 
-### Hi there 👋
+
+- 🌱 I’m currently learning ( TypeScript - SSR/SSG - FullStack development )
+- 📫 How to reach me: m.mohamedsobhi98@gmail.com
+- :iphone: reach me: +201115790092
+- ⚡ Fun fact: i enjoy trying new library or framework everyday
+- ⚡ Fun fact: friends telling me that i am a good designer
 
 
-<!--
-**mohammedsobhi/mohammedsobhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

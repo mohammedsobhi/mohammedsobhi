@@ -3,10 +3,13 @@
 
 
 
-- 🌱 I’m currently learning ( TypeScript - SSR/SSG - FullStack development )
+- 🌱 I’m currently learning: ( TypeScript - SSR/SSG - FullStack development )
 - 📫 How to reach me: m.mohamedsobhi98@gmail.com
 - :iphone: reach me: +201115790092
-- ⚡ Fun fact: i enjoy trying new library or framework everyday
-- ⚡ Fun fact: friends telling me that i am a good designer
+- ⚡ Fun fact: i enjoy trying new library or framework everyday.
+- :art: My friends telling me that i am a good designer.
+- :book: I’m currently reading: Eloquent JavaScript.
+- sometimes freelancer :computer:, sometimes fulltimer :briefcase:.
+- i love the vue community :green_heart: and hope to be a vue core-team member one day :nerd_face:.
 
 

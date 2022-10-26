@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning: ( TypeScript - SSR/SSG - FullStack development )
+- 🌱 I’m currently learning: ( TypeScript - SSR/SSG - Data visualization )
 - 📫 How to reach me: m.mohamedsobhi98@gmail.com
 - :iphone: reach me: +201115790092
 - ⚡ Fun fact: i enjoy trying new library or framework everyday.

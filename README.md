@@ -9,6 +9,6 @@
 - ⚡ Fun fact: i enjoy trying new library or framework everyday.
 - :art: My friends telling me that i am a good designer.
 - :book: I’m currently reading: Eloquent JavaScript.
-- I love the vue community :green_heart: and hope to be a vue core-team member one day :nerd_face:.
+<!-- - I love the vue community :green_heart: and hope to be a vue core-team member one day :nerd_face:. -->
 
 

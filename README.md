@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning: ( TypeScript - SSR/SSG - Data visualization )
-- 📫 How to reach me: m.mohamedsobhi98@gmail.com
+- 📫 How to reach me: m.mohamed.sobhi.98@gmail.com
 - :iphone: reach me: +201115790092
 - ⚡ Fun fact: i enjoy trying new library or framework everyday.
 - :art: My friends telling me that i am a good designer.
